@@ -1,5 +1,9 @@
 # NDMnetModel
-This repository includes the codes for the manuscript entitled "Numerical dispersion mitigation neural network with velocity model correction", which was submitted to Computers $ Geosciences for peer review. NDMnet is the neural network architecture, dataset is the code for uploading data in the form of FFT-domain.
+This repository includes the codes for the manuscript entitled "Numerical dispersion mitigation neural network with velocity model correction", which was submitted to Computers $ Geosciences for peer review. A neural network-based method for suppressing numerical errors: numerical dispersion and velocity model errors.
+
+# Code introduction
+-[NDM-net architecture](NDMnet.py)
+NDMnet is the neural network architecture, dataset is the code for uploading data in the form of FFT-domain.
 
 
 # Requirements

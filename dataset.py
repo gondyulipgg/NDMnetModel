@@ -1,11 +1,7 @@
 import torch
-import torch.nn as nn
-import torch.optim as optim
 import torch.utils.data as data
-import os, random, cv2
-from PIL import Image 
+import os
 import numpy as np
-from numpy.random import multinomial
 from natsort import natsorted
 
 class DatasetFromFolderPy(data.Dataset):

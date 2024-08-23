@@ -1,5 +1,5 @@
 # NDMnetModel
-This repository includes the codes for the manuscript entitled "Numerical dispersion mitigation neural network with velocity model correction", which was submitted to Computers $ Geosciences for peer review. A neural network-based method for suppressing numerical errors: numerical dispersion and velocity model errors. 
+This repository includes the codes for the manuscript entitled "Numerical dispersion mitigation neural network with velocity model correction", which was submitted to Computers & Geosciences for peer review. A neural network-based method for suppressing numerical errors: numerical dispersion and velocity model errors. 
 
 # Code introduction
 - [NDMnet.py](NDMnet.py): NDM-net model architecture 

@@ -6,7 +6,7 @@ This repository includes the codes for the manuscript entitled "Numerical disper
 - [dataset.py](dataset.py): code for converting a dataset into a suitable format for a neural network.
 - [TrainingNDM-net.ipynb](TrainingNDM-net.ipynb): train the main program, where you can change hyperparameters and path. 
 - [ResultsAnalysis.ipynb](ResultsAnalysis.ipynb): applying a neural network to test data and calculating the relative error.
-- [Datafft.zip](Datafft.zip): input dataset for testing (Marmousi data in the FFT-domain).
+- Input dataset for testing (Marmousi data in the FFT-domain) can be found in [HuggingFace cite](https://huggingface.co/datasets/egondyul/Marmousi2DFFT/tree/main).
 
 
 # Requirements

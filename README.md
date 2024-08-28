@@ -6,7 +6,7 @@ This repository includes the codes for the manuscript entitled "Numerical disper
 - [dataset.py](dataset.py): code for converting a dataset into a suitable format for a neural network.
 - [TrainingNDM-net.ipynb](TrainingNDM-net.ipynb): train the main program, where you can change hyperparameters and path. 
 - [ResultsAnalysis.ipynb](ResultsAnalysis.ipynb): applying a neural network to test data and calculating the relative error.
-- To test the algorithm, we used the Marmousi2 velocity model, which can be found on the [site](https://s3.amazonaws.com/open.source.geoscience/open_data/elastic-marmousi/elastic-marmousi-model.tar.gz), and to form a training set, we modeled seismograms on various grids and model discretizations. 
+- To test the algorithm, we used the Marmousi2 velocity model, which can be found with the [link](https://s3.amazonaws.com/open.source.geoscience/open_data/elastic-marmousi/elastic-marmousi-model.tar.gz), and to form a training set, we modeled seismograms on various grids and model discretizations. 
 
 
 # Requirements
